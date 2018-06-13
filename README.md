@@ -1,1 +1,1 @@
-# ltp-html5-specialist
+# Jacques’ HTML5 Specialist Repository
